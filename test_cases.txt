@@ -1,0 +1,7 @@
+Marks: 95 → Grade A
+Marks: 82 → Grade B
+Marks: 75 → Grade C
+Marks: 65 → Grade D
+Marks: 40 → Grade F
+Marks: -5 → Invalid
+Marks: 120 → Invalid
